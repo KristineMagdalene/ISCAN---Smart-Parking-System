@@ -31,8 +31,7 @@ ISCAN Smart Parking System is an intelligent parking solution utilizing ESP32CAM
 
 ### Software Setup
 1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/yourusername/ISCAN-Smart-Parking-System-camera-detection-using-esp32Cam.git
+git clone https://github.com/KristineMagdalene/ISCAN-Smart-Parking-System-camera-detection-using-esp32Cam.git
     cd ISCAN-Smart-Parking-System-camera-detection-using-esp32Cam
     ```
 2. **Install Required Libraries**:
