@@ -1,7 +1,7 @@
 # ISCAN Smart Parking System
 
 ## Overview
-ISCAN Smart Parking System is an intelligent parking solution utilizing ESP32CAM for image processing and slot detection. This system leverages an SQL database for data management and integrates various hardware components like MFRC522 scanners, a servo motor, an IR sensor, ESP32CAM, and ESP8266 to create a robust and automated parking experience.
+ISCAN: Smart Parking System is a parking solution utilizing ESP32CAM for image processing and slot detection. This system leverages an SQL database for data management and integrates various hardware components like MFRC522 scanners, a servo motor, an IR sensor, ESP32CAM, and ESP8266 to create an automated parking experience.
 
 ## Features
 - **Parking Slot Detection**: Uses image processing on the ESP32CAM module to detect the availability of parking slots.
